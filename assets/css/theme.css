@@ -1,0 +1,7 @@
+@font-face {
+    font-family: OpenSansRegular;
+    src: url("../fonts/opensans-regular.ttf");
+}
+body{
+	font-family:OpenSansRegular, Arial;
+}
